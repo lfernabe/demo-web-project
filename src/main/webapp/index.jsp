@@ -1,6 +1,6 @@
 <html>
 <body>
 <h2>Hello World!</h2>
-<h2>Cambio realizado en index.jsp<h2>
+<h2>Archivo modificado<h2>
 </body>
 </html>
